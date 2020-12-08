@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "963122059699",
+    "firebase_url": "https://frost-85735.firebaseio.com",
+    "project_id": "frost-85735",
+    "storage_bucket": "frost-85735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963122059699:android:d3850b63ff786b0ec893c6",
+        "android_client_info": {
+          "package_name": "com.bluebird.future"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963122059699-0i684lcvda6rdu8ebtvq16ohg1duev1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluebird.future",
+            "certificate_hash": "38b7e6b3624ac5a5075397b05e52f1d031f17f4c"
+          }
+        },
+        {
+          "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKEj-fJ9Hojf35_-GnB5ZpgBzcHRfGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963122059699:android:94b965a22a14cff7c893c6",
+        "android_client_info": {
+          "package_name": "com.bluebird.stripe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963122059699-fk29530415thft9d7nl7ecjrs1c7ptds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluebird.stripe",
+            "certificate_hash": "3e90c7b048005895b6d528b6795f36d1b7af72de"
+          }
+        },
+        {
+          "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKEj-fJ9Hojf35_-GnB5ZpgBzcHRfGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963122059699:android:29c9bd2d30d75b0ec893c6",
+        "android_client_info": {
+          "package_name": "com.bluebird.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963122059699-2atse9e1jvgnivmo558uuuga7jeuvhuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluebird.task",
+            "certificate_hash": "3e90c7b048005895b6d528b6795f36d1b7af72de"
+          }
+        },
+        {
+          "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKEj-fJ9Hojf35_-GnB5ZpgBzcHRfGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963122059699-k9qeob5n610cblen7dhqqgt9ko132nq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
